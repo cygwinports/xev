@@ -1,4 +1,4 @@
 category: X11
 requires: cygwin libX11_6
-sdesc: "Xorg X event monitor"
-ldesc: "Xorg X event monitor"
+sdesc: "X.Org X event monitor"
+ldesc: "X.Org X event monitor"
